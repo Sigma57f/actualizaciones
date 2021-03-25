@@ -7,9 +7,14 @@
 		"update":
 		[
 			{
+			"action": "notice",
+			"msg": "eaaaa probando esto",
+			"versionCheck": 1
+			},
+			{
 				"action": "dl",
-				"url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/AA.7z",
-				"hash": "29d67d53276e97192e224cdc6fc331d294f6fe7b"
+				"url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/Re%3AZero%20INFINITY/Ram%20(Detective).zip",
+				"hash": "8e30e9c3282f314466a7a145f4dccc9279cb7e1e"
 			}
 		]
 	}	
