@@ -1,4 +1,5 @@
 {
+  "launcher": { "version": "0.0.1"},	
   "versions": 
   [
 	{
@@ -6,6 +7,11 @@
 		"prev": "",
 		"update":
 		[
+			{
+			"action": "notice",
+			"msg": "eaaaa probando esto",
+			"versionCheck": "1"
+			},
 			{
 			"action": "dl",
 			"url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/Chars%2001.7z",
