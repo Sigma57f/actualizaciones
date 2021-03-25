@@ -10,7 +10,7 @@
 			{
 			"action": "notice",
 			"msg": "eaaaa probando esto",
-			"versionCheck": "1"
+			"versionCheck": 1
 			},
 			{
 				"action": "dl",
