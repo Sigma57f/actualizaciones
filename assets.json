@@ -4,7 +4,7 @@
           {
                 "version": "Actualización 2 de Prueba",
                 "prev": "Actualización 0",
-                "update":
+                "full":
                 [
                     {
                     "action": "dl",
