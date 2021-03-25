@@ -13,9 +13,9 @@
 			"versionCheck": "1"
 			},
 			{
-			"action": "dl",
-			"url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/AA.7z",
-			"hash": "29d67d53276e97192e224cdc6fc331d294f6fe7b"
+				"action": "dl",
+				"url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/AA.7z",
+				"hash": "29d67d53276e97192e224cdc6fc331d294f6fe7b"
 			}
 		]
 	}	
