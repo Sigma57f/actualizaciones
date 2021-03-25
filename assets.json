@@ -1,5 +1,4 @@
 {
-  "launcher": { "version": "0.0.1"},	
   "versions": 
   [
 	{
@@ -9,7 +8,6 @@
 			{
 			"action": "notice",
 			"msg": "eaaaa probando esto",
-			"versionCheck": 1
 			},
 			{
 				"action": "dl",
