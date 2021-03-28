@@ -8,6 +8,38 @@
             	"update":
                 [
                   {
+                    "action": "delete",
+                    "target": "base/characters/Hata no Kokoro [HQ]/1.webp"
+		  },
+                  {
+                    "action": "delete",
+                    "target": "base/characters/Hata no Kokoro [HQ]/2.webp"
+		  },
+                  {
+                    "action": "delete",
+                    "target": "base/characters/Hata no Kokoro [HQ]/3.webp"
+		  },
+	          {
+                    "action": "delete",
+                    "target": "base/characters/Hata no Kokoro [HQ]/4.webp"
+		  },
+	          {
+                    "action": "delete",
+                    "target": "base/characters/Hata no Kokoro [HQ]/5.webp"
+		  },
+	          {
+                    "action": "delete",
+                    "target": "base/characters/Hata no Kokoro [HQ]/6.webp"
+		  },
+	          {
+                    "action": "delete",
+                    "target": "base/characters/Hata no Kokoro [HQ]/7.webp"
+		  },
+	          {
+                    "action": "delete",
+                    "target": "base/characters/Hata no Kokoro [HQ]/8.webp"
+		  },
+	          {
                     "action": "dl",
                     "url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/Hotfix.zip",
                     "hash": "f89c6cb4d8bbdba8283b603df185c5b1396f1af7"
