@@ -9,8 +9,18 @@
                 [
                   {
                     "action": "dl",
-                    "url": "https://www.dl.dropboxusercontent.com/s/jifad0r1h94mh8h/Personajes%20Parte%201.zip",
-                    "hash": "0535fb6d052d15d2911648d023b1082ee3412c90"
+                    "url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/Personajes%20Parte%201.zip",
+                    "hash": "bfc479f4d95de5549b566f4b81e6e3670dcbbd09"
+                  },
+                  {
+                    "action": "dl",
+                    "url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/Personajes%20Parte%202.zip",
+                    "hash": "6614631ba00f21ccf303fcb15ea10433e41dc316"
+                  },
+                  {
+                    "action": "dl",
+                    "url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/Personajes%20Parte%203.zip",
+                    "hash": "10893aa874908661ab29231d4073ab402a7878b5"
                   }
                ]
           },
